@@ -1,0 +1,37 @@
+body{
+	font-family: serif;
+}
+
+#head{
+	text-align: center;
+	padding: 10px 0  15px 0;
+	color: #F95800;
+	font-size: 230%;
+}
+
+.form-group{
+	text-align: center;
+	color: #0A1357;
+	font-size: 150%;
+}
+
+.form-control{
+	display: block;
+	margin-left: 25%;
+	width: 50%;
+	text-align: center;
+
+}
+
+.btn{
+	display: block;
+	margin-left: 40%;
+	width: 20%;
+	margin-top: 30px;
+}
+
+#content, #name, #bloodgrp, #address, #yop{
+	margin-top: 10px;
+	font-family: sans-serif;
+	color: #EC8A0E ;
+}
