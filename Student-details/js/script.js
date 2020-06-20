@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded",
   function (event) {
 
   	function details (event) {
-  		this.textContent = "Searched!";
+  		this.textContent = "Done!";
 
   		
   	   var srn =document.getElementById("srn").value;
