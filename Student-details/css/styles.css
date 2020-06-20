@@ -35,3 +35,14 @@ body{
 	font-family: sans-serif;
 	color: #EC8A0E ;
 }
+
+@media (max-width: 479px) {
+ .col-xxs-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+    width: 100%;
+  }
+}
